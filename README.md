@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Check out my [Gists profile](https://gist.github.com/mattleiphamellis) where I sometimes write up instructions others may find useful.
+
 <!--
 **mattleiphamellis/mattleiphamellis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
